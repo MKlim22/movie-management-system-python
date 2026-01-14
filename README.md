@@ -26,9 +26,8 @@ This is a simple command-line application created as part of an Introduction to 
 3. Open a terminal in the project folder
 4. Run the application using:
 
-```bash
-python main.py
-
+    ```bash
+    python main.py
 
 ## What I learned
 
