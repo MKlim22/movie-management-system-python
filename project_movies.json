@@ -1,0 +1,72 @@
+[
+    {
+        "movie_id": 101,
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "year": 2010,
+        "available_copies": 9
+    },
+    {
+        "movie_id": 102,
+        "title": "The Matrix",
+        "director": "Wachowskis",
+        "year": 1999,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 103,
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 104,
+        "title": "Parasite",
+        "director": "Bong Joon-ho",
+        "year": 2019,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 105,
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 106,
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": 1994,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 107,
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 108,
+        "title": "Fight Club",
+        "director": "David Fincher",
+        "year": 1999,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 109,
+        "title": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "year": 1994,
+        "available_copies": 10
+    },
+    {
+        "movie_id": 110,
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "year": 1993,
+        "available_copies": 10
+    }
+]

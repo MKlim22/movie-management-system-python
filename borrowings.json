@@ -1,0 +1,77 @@
+[
+    {
+      "user_id": 1,
+      "movie_ids": [101],
+      "borrow_date": "2025-04-16",
+      "return_date": "2025-04-23"
+    },
+    {
+      "user_id": 5,
+      "movie_ids": [102],
+      "borrow_date": "2025-04-26"
+    },
+    {
+      "user_id": 3,
+      "movie_ids": [105],
+      "borrow_date": "2025-04-30",
+      "return_date": "2025-05-03"
+    },
+    {
+      "user_id": 7,
+      "movie_ids": [109, 103],
+      "borrow_date": "2025-05-10"
+    },
+    {
+      "user_id": 9,
+      "movie_ids": [104, 108, 106],
+      "borrow_date": "2025-05-05"
+    },
+    {
+      "user_id": 10,
+      "movie_ids": [103, 107],
+      "borrow_date": "2025-05-15"
+    },
+    {
+      "user_id": 8,
+      "movie_ids": [107, 110],
+      "borrow_date": "2025-05-10"
+    },
+    {
+      "user_id": 2,
+      "movie_ids": [101, 110],
+      "borrow_date": "2025-04-30"
+    },
+    {
+      "user_id": 6,
+      "movie_ids": [101, 102, 104],
+      "borrow_date": "2025-05-07",
+      "return_date": "2025-05-15"
+    },
+    {
+      "user_id": 4,
+      "movie_ids": [102, 104, 108],
+      "borrow_date": "2025-05-09"
+    },
+    {
+      "user_id": 9,
+      "movie_ids": [101, 105, 104],
+      "borrow_date": "2025-05-02"
+    },
+    {
+      "user_id": 8,
+      "movie_ids": [102, 105],
+      "borrow_date": "2025-05-01",
+      "return_date": "2025-05-05"
+    },
+    {
+      "user_id": 1,
+      "movie_ids": [102, 109],
+      "borrow_date": "2025-05-11"
+    },
+    {
+      "user_id": 3,
+      "movie_ids": [108, 104],
+      "borrow_date": "2025-04-29",
+      "return_date": "2025-05-04"
+    }
+  ]
